@@ -149,7 +149,7 @@ async def auth(Client, message , update):
     [
         InlineKeyboardButton('🛒 BUY 🛒', callback_data='buy'),
         InlineKeyboardButton('🔴 CHARGE 🔴', callback_data='charge')
-    ],
+    ]
     [
         InlineKeyboardButton('↩️ RETURN ↩️', callback_data='gates'),
         InlineKeyboardButton('🚪 CLOSE 🚪', callback_data='close')
