@@ -1,0 +1,9 @@
+pyrogram==1.4
+tgcrypto
+pymongo
+telegraph
+redis
+dnspython
+pymongo[srv]
+requests
+bs4
